@@ -1,7 +1,7 @@
 # randonautica
 Decompiled randonautica source code
 
-The locations are random
+No, there're no strange things here...
 
 The APP source code is here, and the people who narrated strange events and recorded them are either fake people or very big casualities (don't think so)
 
